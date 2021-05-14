@@ -3,5 +3,6 @@
 # Ignore all except:
 !.gitignore
 !*.h
+!*/
 !*.c
 !*.atsln
