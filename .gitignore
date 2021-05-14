@@ -2,6 +2,6 @@
 
 # Ignore all except:
 !.gitignore
-!.h
-!.c
-!.atsln
+!*.h
+!*.c
+!*.atsln
